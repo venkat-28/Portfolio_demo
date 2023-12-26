@@ -20,7 +20,7 @@ const Projects = () => {
           <h3>Pneumonia Detector</h3>
           <p>Developed a web application to analyze pneumonia detection on chest x-ray images. Users can visualize the accuracy of infection present in the lungs.</p>
           <p>10/2022 - 11/2022</p>
-          <span>Techstack: OpenCV, CNN, HTML, CSS, Flask</span>
+          <span>Techstack: OpenCV, CNN, HTML, Flask</span>
         </div>
 
         <div className="project-card">
