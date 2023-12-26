@@ -1,0 +1,40 @@
+/* Education.css */
+
+.education-container {
+    text-align: center;
+  }
+  
+  .education-card {
+    background-color: rgb(255, 255, 255); /* Adjust the last value for transparency */
+   padding: 20px; 
+   border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease-in-out;
+    display: inline-block;
+  }
+  
+  .education-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .education-card h3 {
+    color: #343a40;
+  }
+  
+  .education-card p {
+    color: #6c757d;
+  }
+  
+  .education-card span {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    font-weight: bold;
+  }
+  .transparent-section {
+    background-color: rgb(255, 255, 255); /* Adjust the last value for transparency */
+    padding: 20px;
+  }
+  

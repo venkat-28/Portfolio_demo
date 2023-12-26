@@ -1,0 +1,7 @@
+/* YourComponent.css */
+
+.transparent-section {
+    background-color: rgba(255, 255, 255, 0.5); /* Adjust the last value for transparency */
+    padding: 20px;
+  }
+  

@@ -1,0 +1,32 @@
+/* Header.css */
+
+.header-container {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+ /* .left-info {
+    flex-grow: 1;
+  }*/
+  
+  .center-info {
+    text-align: center;
+    flex-grow: 1;
+  }
+  
+  .right-info {
+    text-align: right;
+    flex-grow: 1;
+  }
+  
+  .email-info,
+  .phone-info,
+  .location-info,
+  .github-info {
+    margin: 5px 0;
+  }
+  

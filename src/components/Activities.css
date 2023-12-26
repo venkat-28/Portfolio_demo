@@ -1,0 +1,28 @@
+/* Activities.css */
+
+.activities-container {
+    text-align: center;
+  }
+  
+  .activity-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease-in-out;
+    display: inline-block;
+  }
+  
+  .activity-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .activity-card h3 {
+    color: #343a40;
+  }
+  
+  .activity-card p {
+    color: #6c757d;
+  }
+  

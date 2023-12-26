@@ -1,0 +1,47 @@
+/* App.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f3efef; /* Updated background color */
+  color: #f8f3f3; /* Updated text color */
+}
+body {
+  background-image: url("F:\venkat_portfolioi\venkat-portfolio\src\pexels-veeterzy-303383.jpg");
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-attachment: fixed; /* Fixed background for scrolling content */
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #fefafa;
+  color: #f7f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.section {
+  background-color: #f7efef;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgb(238, 236, 236);
+  margin: 20px 0;
+  padding: 20px;
+}
+
+.project-card {
+  background-color: #e9e0e0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgb(240, 237, 237);
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Add more styles as needed */
